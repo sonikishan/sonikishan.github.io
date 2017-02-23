@@ -100,12 +100,12 @@ var Lilac;
                 /**
                  * Get latest tweets
                  */
-                $tis.getLatestTweets();
+                // $tis.getLatestTweets();
 
                 /**
                  * Get Instagram feed
                  */
-                $tis.getInstagram();
+                // $tis.getInstagram();
 
                 /**
                  * Create PrettyPhoto links
